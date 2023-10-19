@@ -1,7 +1,7 @@
 - 👋 Hi, I’m KJ
 - 👀 I’m interested in programming in general
-- 🌱 I’m currently learning Ruby, RoR, Go
-- 💞️ I’m looking to collaborate on MedTech software
+- 🌱 I’m currently learning Ruby, RoR, Elixir, Phoenix, Go
+- 💞️ I’m looking to collaborate on MedTech sw and opensource sw for non-profits
 - 📫 How to reach me on Twitter @KJCWientjes
 
 <!---
