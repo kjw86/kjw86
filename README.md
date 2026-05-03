@@ -1,6 +1,6 @@
 - 👋 Hi, I’m KJ
 - 👀 I’m interested in programming in general
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on MedTech sw and opensource sw for non-profits
 - 📫 How to reach me on Twitter @KJCWientjes
 
